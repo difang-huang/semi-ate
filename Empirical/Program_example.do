@@ -2,7 +2,7 @@
 * ===========================
 * DATA PROCESSING/DEFINITIONS
 * ===========================
-cd "/Users/difang/Nutstore Files/Treatment Effects/ATE/Replication Code/Code/"
+
 set scheme plotplain
 * ===========================
 * TABLE 1 
